@@ -28,3 +28,9 @@ const secondLarge = (arr) => {
 }
 
 console.log(secondLarge(array));
+
+// handles corner cases,
+//  1 - if the array empty
+//  2 - if the array's length less than 2
+//  3 - if the array have neg numbers
+//  4 - if the array have duplicate numbers
