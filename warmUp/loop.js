@@ -15,3 +15,9 @@ for( let i = 0 ; i < 3 ; i ++ ) {
 }
 
 
+// loop 3
+for( let i = 0 ; i < 3 ; i ++ ) {
+    for( j = i ; j > 0 ; j -- ) {
+        console.log('I : '+i+" J : "+j);
+    }
+}
