@@ -21,3 +21,11 @@ for( let i = 0 ; i < 3 ; i ++ ) {
         console.log('I : '+i+" J : "+j);
     }
 }
+
+
+// loop 4
+for( let i = 5 ; i > 0 ; i -- ) {
+    for( j = 0 ; j < i ; j ++ ) {
+        console.log('I : '+i+" J : "+j);
+    }
+}
