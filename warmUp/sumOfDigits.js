@@ -6,5 +6,5 @@ function sumOfDigits (n) {
     }
     return result;
 }
-
+ 
 console.log(sumOfDigits(543))
