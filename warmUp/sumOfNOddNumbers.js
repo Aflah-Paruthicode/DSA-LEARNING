@@ -1,7 +1,7 @@
 function sumOfNOddNumbers (num) {
     let res = [];
     for(let i = 1;res.length<num;i++) {
-        if(i%2 == 0) {
+        if(i%2 == 1) {
             res.push(i);
             
         }
